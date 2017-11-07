@@ -1,0 +1,25 @@
+{
+  "name": "wine",
+  "version": "1.0.0",
+  "description": "a wine party",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/partical/wine.git"
+  },
+  "keywords": [
+    "wine"
+  ],
+  "author": "G.p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/partical/wine/issues"
+  },
+  "homepage": "https://github.com/partical/wine#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
